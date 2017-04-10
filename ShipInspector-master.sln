@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shipInspector-master", "shipInspector-master.csproj", "{D101E5B1-BCFC-91BF-9A7C-C8B293A9AD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shipInspector-master.Editor", "shipInspector-master.Editor.csproj", "{0B97A4F8-5969-29C6-E0E5-844260FD018D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D101E5B1-BCFC-91BF-9A7C-C8B293A9AD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D101E5B1-BCFC-91BF-9A7C-C8B293A9AD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D101E5B1-BCFC-91BF-9A7C-C8B293A9AD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D101E5B1-BCFC-91BF-9A7C-C8B293A9AD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B97A4F8-5969-29C6-E0E5-844260FD018D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B97A4F8-5969-29C6-E0E5-844260FD018D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B97A4F8-5969-29C6-E0E5-844260FD018D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B97A4F8-5969-29C6-E0E5-844260FD018D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
